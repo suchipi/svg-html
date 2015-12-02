@@ -1,0 +1,29 @@
+{
+  "name": "svg-html",
+  "main": "svg-html.html",
+  "authors": [
+    "Stephen Scott <me@suchipi.com>"
+  ],
+  "description": "Polymer element that facilitates Polymer data binding to svg documents",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "svg",
+    "data",
+    "binding",
+    "attribute",
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.2.3",
+  }
+}
